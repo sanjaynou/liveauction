@@ -1,0 +1,9 @@
+[07-Jul-2018 03:20:18 America/Chicago] PHP Fatal error:  Call to a member function all_country() on null in /home4/nsglobal/public_html/dev/liveauction/application/views/segment/header.php on line 2
+[07-Jul-2018 03:20:18 America/Chicago] PHP Fatal error:  Call to a member function all_country() on null in /home4/nsglobal/public_html/dev/liveauction/application/views/segment/header.php on line 2
+[07-Jul-2018 03:20:29 America/Chicago] PHP Fatal error:  Call to a member function all_country() on null in /home4/nsglobal/public_html/dev/liveauction/application/views/segment/header.php on line 2
+[07-Jul-2018 03:21:15 America/Chicago] PHP Fatal error:  Call to a member function all_country() on null in /home4/nsglobal/public_html/dev/liveauction/application/views/segment/header.php on line 2
+[29-Sep-2018 02:33:27 America/Chicago] PHP Fatal error:  Call to undefined method buyer_model::get_all_country() in /home4/nsglobal/public_html/dev/liveauction/application/controllers/buyer.php on line 33
+[29-Sep-2018 03:14:50 America/Chicago] PHP Fatal error:  Call to a member function get_buyer() on null in /home4/nsglobal/public_html/dev/liveauction/application/views/segment/header.php on line 33
+[29-Sep-2018 03:14:55 America/Chicago] PHP Fatal error:  Call to a member function get_buyer() on null in /home4/nsglobal/public_html/dev/liveauction/application/views/segment/header.php on line 33
+[29-Sep-2018 03:16:22 America/Chicago] PHP Fatal error:  Call to a member function get_buyer() on null in /home4/nsglobal/public_html/dev/liveauction/application/views/segment/header.php on line 33
+[20-Oct-2018 03:06:23 America/Chicago] PHP Fatal error:  Call to a member function seller_details() on null in /home4/nsglobal/public_html/dev/liveauction/application/views/auction/live_auction.php on line 115
